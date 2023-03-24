@@ -2,7 +2,7 @@
 
 ![Dashboard](Dashboard.png)
  
-### hi,i did a mini project using python pandas on Airbnb dataset,
+### Hi,i did a mini project using python pandas on Airbnb dataset,
 1.Created a jupyter Notebook
 2.Gather and load data
 3.Understand data
